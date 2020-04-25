@@ -1,0 +1,11 @@
+There are many differences that I implemented into the SuperHero polymorphism assignment 
+in contrast to the first Polymorphism assignment. 
+One main difference I implemented was
+the inclusion on a Polymorphic Array. I used this array to access the Polymorphic methods of 
+'doThis' and 'equals". 
+The second difference I implemented was an opening menu that is user interactive and implements switch
+statements to route the user in the right options. 
+The third difference I implemented was the inclusion of abstract methods to store messages that would appear in the
+main menu, the detailed list of superheroes, as well as the sorted groups of superheroes. 
+The final and fourth difference would be the inclusion of a 'for loop' to sisplay the polymorphic doThis methods in each 
+class. 
